@@ -116,9 +116,9 @@ module.exports.themes = [
 				default: colors["mocha-base"], // primary background color: ;
 				success: colors["mocha-green"], // POST request, 200 OK, parameter names
 				notice: colors["mocha-yellow"], // PATCH request
-				warning: colors["mocha-mauve"], // PUT request
+				warning: colors["mocha-lavender"], // PUT request
 				danger: colors["mocha-red"], // DELETE request
-				surprise: colors["mocha-peach"], // accent (Dashboard link, GET request,
+				surprise: colors["mocha-mauve"], // accent (Dashboard link, GET request,
 				// SEND button, branch button, add plugin button)
 				info: colors["mocha-sapphire"], // OPTIONS AND HEAD request
 			},

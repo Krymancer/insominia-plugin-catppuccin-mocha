@@ -2,7 +2,7 @@
   "name": "insomnia-plugin-catppuccin-mocha",
   "version": "1.0.0",
   "description": "",
-  "main": "themes/app.js",
+  "main": "app.js",
   "insomnia": {
     "name": "insomnia-plugin-catppuccin-mocha",
     "displayName": "Catppuccin Mocha Theme",
