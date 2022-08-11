@@ -2,10 +2,10 @@
   "name": "insomnia-plugin-catppuccin-mocha",
   "version": "1.0.0",
   "description": "",
-  "main": "app.js",
-  "insomnia": {                    
-    "name": "base64",                                                     
-    "displayName": "Catppuccin Mocha Theme",                                       
+  "main": "themes/app.js",
+  "insomnia": {
+    "name": "insomnia-plugin-catppuccin-mocha",
+    "displayName": "Catppuccin Mocha Theme",
     "description": "A theme based in the catppuccin mocha color palette.",
     "images": {
       "icon": "icon.svg",
