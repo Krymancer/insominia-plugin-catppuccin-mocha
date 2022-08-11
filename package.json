@@ -1,0 +1,27 @@
+{
+  "name": "insomnia-plugin-catppuccin-mocha",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "insomnia": {                    
+    "name": "base64",                                                     
+    "displayName": "Catppuccin Mocha Theme",                                       
+    "description": "A theme based in the catppuccin mocha color palette.",
+    "images": {
+      "icon": "icon.svg",
+      "cover": "cover.png"
+    },
+    "publisher": {
+      "name": "Júnior Nascimento",
+      "icon": "ht"
+    },
+    "unlisted": false
+  },
+  "keywords": [
+    "theme",
+    "insomnia",
+    "insomnia-plugin"
+  ],
+  "author": "Júnior Nascimento",
+  "license": "ISC"
+}
